@@ -353,6 +353,7 @@ New services are not immediately available in all AWS Regions, please consult th
 [us-west-2-vpc-bastion-eb-rds]: https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/create/review?templateURL=https://s3.amazonaws.com/awslabs-startup-kit-templates-deploy-v5/vpc-bastion-eb-rds.cfn.yml
 
 [sa-east-1-vpc]: https://console.aws.amazon.com/cloudformation/home?region=sa-east-1#/stacks/create/review?templateURL=https://s3.amazonaws.com/awslabs-startup-kit-templates-deploy-v5/vpc.cfn.yml
+
 [sa-east-1-vpc-bastion]: https://console.aws.amazon.com/cloudformation/home?region=sa-east-1#/stacks/create/review?templateURL=https://s3.amazonaws.com/awslabs-startup-kit-templates-deploy-v5/vpc-bastion.cfn.yml
 [sa-east-1-vpc-bastion-eb-rds]: https://console.aws.amazon.com/cloudformation/home?region=sa-east-1#/stacks/create/review?templateURL=https://s3.amazonaws.com/awslabs-startup-kit-templates-deploy-v5/vpc-bastion-eb-rds.cfn.yml
 
